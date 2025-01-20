@@ -1,21 +1,21 @@
 [
   {
     "id": 1,
-    "name": "Book",
+    "name": "Blossom",
     "price": 10.99,
-    "imgUrl": "/imgs/book.jpg"
+    "imgUrl": "/imgs/Blossom.jpg"
   },
   {
     "id": 2,
-    "name": "Computer",
+    "name": "BuckEyes",
     "price": 1199,
-    "imgUrl": "/imgs/computer.jpg"
+    "imgUrl": "/imgs/BuckEyes.JPG"
   },
   {
     "id": 3,
-    "name": "Banana",
+    "name": "XmasCookies",
     "price": 1.05,
-    "imgUrl": "/imgs/banana.jpg"
+    "imgUrl": "/imgs/XmasCookies.jpg"
   },
   {
     "id": 4,
