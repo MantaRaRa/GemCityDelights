@@ -8,55 +8,85 @@
   {
     "id": 2,
     "name": "Chex Mix Traditional",
-    "price": 1199,
+    "price": 6,
     "imgUrl": "/imgs/ChexMix-Traditional.jpg"
   },
   {
     "id": 3,
     "name": "Chex Mix Spicy",
-    "price": 1.05,
+    "price": 6,
     "imgUrl": "/imgs/ChexMix-Spicy.jpg"
   },
   {
     "id": 4,
     "name": "Chex Mix Sweet",
-    "price": 14000,
+    "price": 6,
     "imgUrl": "/imgs/ChexMix-Sweet.jpg"
   },
   {
     "id": 5,
     "name": "Chocolate Cherry Cordials",
-    "price": 1.05,
+    "price": 6,
     "imgUrl": "/imgs/ChocolateCherry.jpg"
   },
   {
     "id": 6,
     "name": "Hot Fries",
-    "price": 1.05,
+    "price": 6,
     "imgUrl": "/imgs/HotFries.jpg"
   },
   {
     "id": 7,
     "name": "Oatmeal Scotchies",
-    "price": 1.05,
+    "price": 6,
     "imgUrl": "/imgs/OatmealScotchies.jpg"
   },
   {
     "id": 8,
     "name": "Reese Cup Brownies",
-    "price": 1.05,
+    "price": 6,
     "imgUrl": "/imgs/ReeseCupBrownies.jpg"
   },
   {
     "id": 9,
     "name": "Rolo Marshmallow Brownies",
-    "price": 1.05,
+    "price": 6,
     "imgUrl": "/imgs/RoloMarshmallow.jpg"
   },
   {
     "id": 10,
     "name": "Turtles",
-    "price": 1.05,
+    "price": 6,
     "imgUrl": "/imgs/Turtles.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Honey-Large",
+    "price": 30,
+    "imgUrl": "/imgs/Honey-Large.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Honey-Small",
+    "price": 15,
+    "imgUrl": "/imgs/Honey-Small.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Gummies-Grape",
+    "price": 10,
+    "imgUrl": "/imgs/Gummies.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Gummies-Cherry",
+    "price": 10,
+    "imgUrl": "/imgs/Gummies.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Gummies-Apple",
+    "price": 10,
+    "imgUrl": "/imgs/Gummies.jpg"
   }
 ]
